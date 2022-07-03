@@ -6,7 +6,7 @@ Sentinel is a password manager that I built as a project for my DiSE (Diploma in
 
 **Version: 1.0.1** <br>
 **Implemented language:** Java<br>
-**Project status:** Under maintenance.
+**Project status:** Not under maintenance.
 
 ## Features
 Standard functionality include:
